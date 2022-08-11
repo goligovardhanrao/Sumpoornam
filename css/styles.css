@@ -473,7 +473,7 @@ h2, .h2 {
 #home .heading h2 {
 	color: #fff;
 	font-size: 100px !important;
-	padding-top: 75px;
+/* 	padding-top: 75px; */
 }
 #home .heading strong {
 	color: #fff;
