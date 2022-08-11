@@ -364,7 +364,7 @@ h2, .h2 {
 	background-image: url('../images/dots.png');
 	background-repeat: repeat;
 	height: 760px;
-	/* overflow-y: hidden; */
+	overflow-y: hidden;
 }
 
 
