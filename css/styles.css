@@ -22,7 +22,7 @@ body {
 	-webkit-transition: all 0.3s linear;
 	-moz-transition: all 0.3s linear;
 	-o-transition: all 0.3s linear;
-	/* overflow: hidden; */
+	overflow: hidden;
 }
 ::selection {
 	color: #fff;
